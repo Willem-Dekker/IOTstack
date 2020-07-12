@@ -64,6 +64,3 @@ Feel free to add your comments on features or images that you think should be ad
 ## Contributions
 
 If you use some of the tools in the project please consider donating or contributing on their projects. It doesn't have to be monetary, reporting bugs and PRs help improve the projects for everyone.
-
-Last update: {{ git_revision_date_localized }}
-Authors: {{ git_page_authors }}
