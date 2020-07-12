@@ -1,6 +1,3 @@
----
-title: Mosquitto
----
 # Mosquitto
 ## References
 - [Docker](https://hub.docker.com/_/eclipse-mosquitto)

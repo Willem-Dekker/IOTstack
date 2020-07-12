@@ -1,6 +1,3 @@
----
-title: InfluxDB
----
 # InfluxDB
 ## References
 - [Docker](https://hub.docker.com/_/influxdb)

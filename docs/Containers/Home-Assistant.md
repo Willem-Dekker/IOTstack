@@ -1,6 +1,3 @@
----
-title: Home assistant
----
 # Home assistant
 ## References
 - [Docker](https://hub.docker.com/r/homeassistant/home-assistant/)

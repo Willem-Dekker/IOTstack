@@ -1,6 +1,3 @@
----
-title: PostgreSQL
----
 # PostgreSQL
 ## References
 - [Docker](https://hub.docker.com/_/postgres)

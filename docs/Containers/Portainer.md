@@ -1,6 +1,3 @@
----
-title: Portainer
----
 # Portainer
 ## References 
 - [Docker](https://hub.docker.com/r/portainer/portainer/)

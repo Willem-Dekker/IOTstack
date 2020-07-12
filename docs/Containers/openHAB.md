@@ -1,6 +1,3 @@
----
-title: Openhab
----
 # Openhab
 ## References
 - [Docker](https://hub.docker.com/r/openhab/openhab/)
