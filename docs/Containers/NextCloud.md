@@ -58,4 +58,5 @@ It would be a good idea to mount an external drive to store the data in rather t
 
 The external drive will have to be an ext4 formatted drive because smb, fat32 and NTFS can't handle linux file permissions. If the permissions aren't set to "www-data" then the container wont be able to write to the disk.
 
-Just a warning: If your database gets corrupted then your nextcloud is pretty much stuffed
+!!! warning
+  If your database gets corrupted then your nextcloud is pretty much stuffed
