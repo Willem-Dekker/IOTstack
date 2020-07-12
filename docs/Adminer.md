@@ -1,3 +1,7 @@
+---
+title: Adminer
+---
+
 # Adminer
 ## References
 - [Docker](https://hub.docker.com/_/adminer)

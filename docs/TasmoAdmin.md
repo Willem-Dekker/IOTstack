@@ -1,3 +1,6 @@
+---
+title: TasmoAdmin
+---
 # TasmoAdmin
 ## References 
 * [Homepage](https://github.com/arendst/Tasmota/wiki/TasmoAdmin)

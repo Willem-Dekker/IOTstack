@@ -1,3 +1,6 @@
+---
+title: Python
+---
 # Python
 * [Docker hub](https://hub.docker.com/_/python)
 

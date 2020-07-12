@@ -1,3 +1,6 @@
+---
+title: Node-RED
+---
 # Node-RED
 ## References
 - [Docker](https://hub.docker.com/r/nodered/node-red)

@@ -1,3 +1,6 @@
+---
+title: x2go
+---
 # x2go
 x2go is an "alternative" to using VNC for a remote connection. It uses X11 forwarding over ssh to provide a desktop environment
 

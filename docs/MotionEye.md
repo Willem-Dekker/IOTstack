@@ -1,3 +1,6 @@
+---
+title: MotionQye
+---
 # MotionQye
 ## References
 

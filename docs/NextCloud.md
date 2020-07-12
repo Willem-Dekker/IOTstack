@@ -1,3 +1,6 @@
+---
+title: Next Cloud
+---
 # Next Cloud
 ## DO NOT EXPOSE PORT 80 TO THE WEB
 

@@ -1,3 +1,6 @@
+---
+title: Pi-hole
+---
 # Pi-hole
 Pi-hole is a fantastic utility to reduce ads
 

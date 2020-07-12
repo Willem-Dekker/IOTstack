@@ -1,3 +1,6 @@
+---
+title: Grafana
+---
 # Grafana
 
 ## References

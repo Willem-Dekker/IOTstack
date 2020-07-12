@@ -1,3 +1,6 @@
+---
+title: DIY hue
+---
 # DIY hue
 * [website](https://diyhue.org/getting-started/)
 

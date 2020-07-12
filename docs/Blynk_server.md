@@ -1,3 +1,6 @@
+---
+title: Blynk server
+---
 # Blynk server
 This is a custom implementation of Blynk Server
 
