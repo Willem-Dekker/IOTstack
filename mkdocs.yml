@@ -8,3 +8,5 @@ theme:
     - search
     - awsome-pages
     - git-authors
+    - admonition
+    - git-revision-date-localized

@@ -1,5 +1,6 @@
 # Updating the project
-**If you ran the git checkout -- 'git ls-files -m' as suggested in the old wiki entry then please check your duck.sh because it removed your domain and token**
+!!! important
+    If you ran the git checkout -- 'git ls-files -m' as suggested in the old wiki entry then please check your duck.sh because it removed your domain and token
 
 
 Periodically updates are made to project which include new or modified container template, changes to backups or additional features. As these are released your local copy of this project will become out of date. This section deals with how to bring your project to the latest published state.

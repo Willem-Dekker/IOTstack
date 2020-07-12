@@ -9,6 +9,7 @@ https://sensorsiot.github.io/IOTstack/
 
 ## Video
 [![#295 Raspberry Pi Server based on Docker, with VPN, Dropbox backup, Influx, Grafana, etc.](http://img.youtube.com/vi/a6mjt8tWUws/0.jpg)](https://www.youtube.com/watch?v=a6mjt8tWUws "#295 Raspberry Pi Server based on Docker, with VPN, Dropbox backup, Influx, Grafana, etc.")
+
 **Andreas Spiess | #295 Raspberry Pi Server based on Docker, with VPN, Dropbox backup, Influx, Grafana, etc.**
 
 
