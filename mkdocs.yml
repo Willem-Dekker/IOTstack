@@ -2,13 +2,11 @@ site_name: IOTstack
 site_description: 'Docker stack for getting started on IOT on the Raspberry PI'
 theme:
   name: material
-  custom_dir: docs/theme/
   features:
     - tabs
   plugins:
     - search
     - awsome-pages
-    - git-authors
     - git-revision-date-localized
 markdown_extensions:
   - admonition
