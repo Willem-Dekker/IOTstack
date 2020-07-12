@@ -1,9 +1,7 @@
 # Next Cloud
-## DO NOT EXPOSE PORT 80 TO THE WEB
-
-It is a very bad idea to expose unencrypted traffic to the web. You will need to use a reverse-proxy to ensure your password is not stolen and your account hacked.
-
-I'm still working on getting a good encrypted reverse proxy working. However in the interim you can use a VPN tunnel like OpenVPN or Zerotier to securely connect to your private cloud
+!!! attention "DO NOT EXPOSE PORT 80 TO THE WEB"
+    It is a very bad idea to expose unencrypted traffic to the web. You will need to use a reverse-proxy to ensure your password is not stolen and your account hacked.
+    I'm still working on getting a good encrypted reverse proxy working. However in the interim you can use a VPN tunnel like OpenVPN or Zerotier to securely connect to your private cloud
 
 ## Backups
 
